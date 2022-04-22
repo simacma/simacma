@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simacma
-- 👀 I’m interested in QA, CI/CD, Web Development, Graphocs Design, Software Development, Application Development
+- 👀 I’m interested in QA, CI/CD, Web Development, Graphics Design, Software Development, Application Development
 - 🌱 I’m currently learning C Pragramming in my academic
 - 💞️ I’m looking to collaborate on C Programming assignment
 - 📫 How to reach me contact me with bhattaraisima53@gmail.com
